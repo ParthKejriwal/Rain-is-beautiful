@@ -1,2 +1,2 @@
-# Rain-is-beautiful
-my files related to infinite rain
+# p5.play-boilerplate
+Boiler plate for p5.play
